@@ -12,17 +12,12 @@ html {
 }
 
 body {
-  display: flex;
-  flex-direction: column;
-  height: 100%;
-  padding: 0;
-  margin: 0;
-  font-family: "Arial", sans-serif;
-  font-size: 16px;
-  line-height: 1.5;
-  background-color: #fff;
-  color: #222;
-}
+  font-family: "Poppins" "Arial", sans-serif;
+  background-image: url('../img/bg.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 0% 0%;
+  }
 
 img {
   max-width: 100%;
